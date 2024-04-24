@@ -3,12 +3,12 @@ Explored a dataset related to a game with SQL as part of the "Mentorness" intern
 
 ## Dataset Description
 - **Player Details Table**
-  
-![image](https://github.com/PPriyadarsini/Decode-Gaming-Behaviour-SQL/assets/42106958/f8d242f6-f84a-4059-b00d-060f5111cbf3)
+
+![pd](https://github.com/PPriyadarsini/SQL-Projects/assets/42106958/5f07257a-900b-40e1-965f-266cf7c05b44)
 
 - **Level Details Table**
 
-![image](https://github.com/PPriyadarsini/Decode-Gaming-Behaviour-SQL/assets/42106958/a50e47e9-8159-401d-8f6d-807aa58d8457)
+![ld](https://github.com/PPriyadarsini/SQL-Projects/assets/42106958/243dd38d-1e2b-4f7e-83aa-a824e657ed92)
 
 ## Rules of the Game
 1) Players play a game divided into 3-levels (L0,L1 and L2)
