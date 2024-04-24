@@ -1,4 +1,4 @@
-# Decode Gaming Behaviour with SQL
+# Decode Gaming Behaviour
 Explored a dataset related to a game with SQL as part of the "Mentorness" internship project, consisting of the 'Player Details' and 'Level Details' tables. Through a series of SQL queries, I uncovered valuable insights from this dataset, answering 15 questions that delve into various aspects of player performance and game progression.
 
 ## Dataset Description
