@@ -1,4 +1,5 @@
 # SQL Projects
-This repository features a collection of SQL projects.
+This README offers a glimpse into my SQL projects contained within this repository.
 
 ## Projects
+- **Steve's Car Showroom:**
