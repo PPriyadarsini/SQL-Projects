@@ -12,7 +12,11 @@ This is an SQL Challenge based on Steve's Car Showroom data, designed to test ba
 
   **3.** Salespersons
 
-### Concepts used: 
+## Tables used for the analysis
+
+![challenge1tables](https://github.com/PPriyadarsini/SQL-Projects/assets/42106958/799294f0-c39d-4c90-985b-62a1d877e743)
+
+## Concepts used
 - Select
 - Aggregate Functions (SUM, COUNT)
 - Joins
