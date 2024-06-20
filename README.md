@@ -5,3 +5,5 @@ This README offers a glimpse into my SQL projects contained within this reposito
 - **Steve's Car Showroom:** Analyzed sales data of a car showroom to answer questions about car details, sales performance by salesperson, and revenue generation by car type and provided insights to understand sales trends.
 
 - **Decode Gaming Behaviour:** Analyzed player data in a game. Explored player performance (scores, stages crossed), activity (unique playdates), and device usage across difficulty levels. Gained insights on players behaviour, and level progression. 
+
+- **Consumer Goods Ad-Hoc Insights:** Analyzed Atliq Hardwares (imaginary company) data to provide insights to the Management team about the business to make data-informed decisions. 
