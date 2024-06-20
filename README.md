@@ -6,4 +6,4 @@ This README offers a glimpse into my SQL projects contained within this reposito
 
 - **Decode Gaming Behaviour:** Analyzed player data in a game. Explored player performance (scores, stages crossed), activity (unique playdates), and device usage across difficulty levels. Gained insights on players behaviour, and level progression. 
 
-- **Consumer Goods Ad-Hoc Insights:** Analyzed Atliq Hardwares (imaginary company) data to provide insights to the Management team to scale the business and make data-informed decisions. 
+- **Consumer Goods Ad-Hoc Insights:** Analyzed Atliq Hardware's (imaginary company) data to provide insights to the Management team in order to scale the business and make data-informed decisions. 
